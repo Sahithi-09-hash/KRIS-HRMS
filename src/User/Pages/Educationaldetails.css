@@ -1,0 +1,20 @@
+#academic{
+   color: black;
+    margin-left: 35px;
+}
+#records{
+   background-color: #c1daf8;
+    border-radius: 5px;
+    margin: -5px 35px;
+    height:60px
+}
+.Science{
+    margin-top: -10px;
+    color: black;
+    margin-left: 35px;
+    margin-bottom:25px;
+    font-size:16px;
+}
+.deliver{
+    height: 90px !important;
+}

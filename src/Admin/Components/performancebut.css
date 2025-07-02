@@ -1,0 +1,33 @@
+#managebox{
+    background-color: #E3EDF9;
+    width: 1227px;
+    height: 85vh;
+    margin-left: 292px;
+    padding-left: 60px;
+}
+#manage{
+    margin:0px 0px 0px 25px;
+  padding:10px 1px 0px 0px;
+  display: flex;
+}#manage button{
+       background-color: white;
+    border-radius: 26px;
+    border: none;
+    color: rgb(9, 9, 94);
+    font-size: 15px;
+    font-weight: bold;
+    width: 155px;
+    height: 35px;
+    margin-left: 64px;
+    box-shadow: 3px 3px 10px 2px black;
+}
+#target{
+    margin-left: -15px !important;
+}
+#manageimg{
+  background-color: rgb(9, 9, 94);
+  width: 1100px;
+  margin-top:30px;
+  border-radius: 5px;
+  display: flex;
+ }

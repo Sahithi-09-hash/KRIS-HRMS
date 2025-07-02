@@ -1,0 +1,21 @@
+ .admindashboard {
+   background-color: #E3EDF9;
+   width: 155px;
+   height: 100vh;
+   border: 2px solid black
+ }
+
+ #stats {
+   background-color: #E3EDF9;
+   width: 100vh;
+   height: 200vh;
+   margin-left: 350px;
+ }
+
+ #dashback {
+   background-color: #E3EDF9;
+ }
+
+
+
+ 

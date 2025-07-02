@@ -1,0 +1,123 @@
+#background{
+    background-color: #E3EDF9;
+    width:1518px;
+    height:100vh;
+}
+
+#leavepage{
+    background-color: white;
+    margin: 20px 25px;
+    padding-top: 17px;
+    height: 33px;
+    font-size: 15px;
+}
+#mainbox{
+    background-color:white;
+    margin:20px 25px;
+    height:500px;
+}
+.leavecard{
+    background-color: rgb(37, 61, 144);
+    width: 323px;
+    height: 115px;
+    margin-left: 35px;
+    border-radius: 10px;
+}
+#maincard{
+    display: flex;
+}
+.apply{
+    background-color: gold;
+    width: 165px;
+    height: 30px;
+    margin-left: 85px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.leavetext{
+    color:white;
+    text-align: center;
+}
+#faopen{
+margin:35px;
+}
+#history{
+display: flex;
+    background-color: white;
+    margin: 30px;
+    height: 45px;
+}
+#filter{
+ color: black;
+    margin-left: 1040px;
+    border: none;
+    background-color: white;
+    width: 65px;
+    font-size: 20px;
+    margin-top: 9px;
+}
+#export{
+     color: white;
+    background-color: green;
+    font-size: 18px;
+    border: none;
+    width: 130px;
+    height: 28px;
+    border-radius: 5px;
+    margin-left: 20px;
+
+}
+.table-container {
+  padding: 2rem;
+  overflow-x: auto;
+}
+
+.leave-table {
+  width: 1375px;
+  margin-left: 50px;
+  margin-top: -25px;
+  border-collapse: collapse;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+.leave-table thead {
+  background-color: #e5f0fa;
+}
+
+.leave-table th,
+.leave-table td {
+ padding: 10px;
+ text-align: center;
+}
+
+.leave-table tbody tr:nth-child(even) {
+  background-color: #f7fafd;
+}
+
+.leave-table tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+.action-button {
+  background-color: #0a53be;
+  color: white;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.action-button:hover {
+  background-color: #084298;
+}
+
+.eye-icon {
+  font-size: 14px;
+}

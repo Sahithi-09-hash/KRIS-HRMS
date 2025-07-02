@@ -1,0 +1,73 @@
+.header{
+    background: white;
+    width:1518px;
+    height: 75px;
+    margin-bottom: -10px;
+  }
+ 
+  .top-icons1 .icon {
+    margin: 0 20px;
+    font-size: 20px;
+  }
+
+.icontop1{
+  border: 2px solid;
+  padding:8px;
+  border-radius: 50%;
+  margin-right:20px;
+  font-size: 20px;
+  border: 2px solid black;
+}
+#fabell{
+  background-color: rgb(74, 74, 223);
+  color: white;
+  margin-right: 10px;
+  border: none;
+  font-size: 15px;
+
+}
+#faMsg{
+  background-color: #28a745;
+  color:white;
+  margin-right: 10px;
+  border: none;
+  font-size: 15px;
+}
+#fauser{
+  background-color: #ffcc00;
+  margin-right: 45px;
+  border: none;
+  font-size: 15px;
+}
+#icon{
+  width: 110px;
+  margin-left: 50px;
+}
+.header-text{
+    font-size: 20px;
+    font-weight: 20px;
+    margin-left: 170px;
+    margin-top: -50px;
+    width: 970px;
+}
+.header-text li{
+  list-style-type: none;
+  margin-left: 100px;
+}
+.header-text  ul{
+ display:flex;
+ margin-right: 100px;
+}
+.header-text li:hover{
+  border-bottom: #ffcc00 solid 3px;
+  cursor: pointer;
+  font-size: 22px;
+  padding-bottom: 15px;
+}
+#adminlink{
+  color: black;
+}
+.top-icons1{
+ margin-top: -40px;
+ margin-left: 1245px;
+}

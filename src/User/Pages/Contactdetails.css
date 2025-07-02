@@ -1,0 +1,66 @@
+#employee{
+    display: flex;
+}
+#employeeprofile {
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  background-color: white;
+  margin-top: 108px;
+  margin-left: -1023px;
+  width: 995px;
+  height:72vh;
+  border-radius: 10px;
+}
+#contact{
+    display:flex;
+}
+#contact1{
+    margin-top: 25px;
+    margin-left: 83px;
+}
+#phnnumber1{
+    font-size: 15px;
+    color: black;
+
+}
+#contact2{
+    margin-top: 25px;
+    margin-left: 110px;
+}
+#phone1{
+    background-color: #c1daf8;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+    width: 350px;
+    margin-top: 15px;
+}
+#phone2{
+    background-color: #c1daf8;
+    height: 35px;
+    width: 810px;
+    border: none;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+#phone3{
+    background-color: #c1daf8;
+    height: 60px;
+    width: 810px;
+    border: none;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+#update{
+    
+    background-color: green;
+    height: 35px;
+    font-size: 20px;
+    width: 170px;
+    border-radius: 5px;
+    margin-left: 85px;
+    margin-top: 25px;
+    color:white;
+    border:none;
+}

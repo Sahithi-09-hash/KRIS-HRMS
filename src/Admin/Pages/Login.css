@@ -1,0 +1,108 @@
+body{
+  margin:0px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.login-background{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background:  linear-gradient(rgba(6, 33, 139, 0.7)),
+    url('/assets/Admin.png') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .login-box {
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    width: 350px;
+  }
+  
+  #login {
+    color: white;
+    margin-bottom: 5px;
+  }
+  
+  #loginto {
+    color: #ddd !important;
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  
+  .input-group {
+    text-align: left;
+    margin-bottom: 15px;
+  }
+  
+  .input-group label {
+    color: white;
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  .input-group input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  .remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+    margin-bottom: 15px;
+  }
+  
+  .remember-forgot label {
+    color: white;
+  }
+  
+  .remember-forgot a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .remember-forgot a:hover {
+    text-decoration: underline;
+  }
+  
+  .login-button {
+    width: 100%;
+    background: yellow;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .login-button:hover {
+    background: gold;
+  }
+  .logo {
+    position: fixed;
+    top: 20px; 
+    left: 15px;
+    width: 232px; 
+    height:98px;
+}
+.rememberme{
+  margin-top: 15px;
+}
+#pass{
+  color:white;
+}

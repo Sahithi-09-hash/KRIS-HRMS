@@ -1,0 +1,13 @@
+.leave-history-container {
+    background-color: white;
+    height: 100vh;
+    width: 217vh;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.leave-title {
+    font-size: 20px;
+    margin-left: -1300px;
+    margin-top: 10px;
+}

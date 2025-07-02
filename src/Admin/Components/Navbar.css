@@ -1,0 +1,102 @@
+#dashboard-container {
+     background: #E3EDF9;
+    width: 1230px;
+    height: 65px;
+    margin-left: 290px;
+    border-radius: 5px;
+
+  }
+  
+  .top-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background:#E3EDF9;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 25px;
+
+  }
+  
+  .search-bar {
+    padding: 8px;
+    width: 40%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  #top-icons .icon {
+    margin: 0 8px;
+    font-size: 20px;
+  }
+  
+  
+  .card {
+    background: white;
+    padding: 20px;
+    width: 48%;
+    border-radius: 8px;
+  }
+
+  #search{
+    width: 330px;
+    height: 23px;
+    outline: none;
+    position: absolute;
+  }
+  #searchicon{
+    position: relative;
+    margin-left: 310px;
+  }
+  #mail{
+    color: black;
+    font-size: 30px;
+  }
+  #emply{
+    color: black;
+  }
+  .Job{
+    font-size: 30px;
+  }
+
+.icontop{
+  border: 2px solid;
+  padding:8px;
+  border-radius: 50%;
+  margin-right:10px;
+  font-size: 15px;
+}
+#Bell{
+  background-color: rgb(74, 74, 223);
+  color: white;
+  margin-left: -90px;
+}
+#Tool{
+  background-color: #ffcc00;
+  border:none;
+  font-size: 15px;
+}
+#circle{
+  background-color: #28a745;
+  color:white;
+  margin-right: 120px;
+  border:none;
+  font-size: 15px;
+}
+#Bars{
+  font-size: 20px;
+  color: rgb(14, 14, 126);
+ 
+}
+#candid{
+  background-color: rgb(10, 10, 127);
+  color:white;
+  font-size: 15px;
+  border-radius: 5px;
+  border-right: none;
+  padding: 10px;
+  margin-left: -120px;
+}
+.menu-btn{
+  margin-left: 50px;
+}

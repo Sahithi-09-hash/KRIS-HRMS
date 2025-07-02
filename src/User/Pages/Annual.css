@@ -1,0 +1,149 @@
+#ground{
+    background-color: #E3EDF9;
+    width:1518px;
+    height:90vh;
+}
+.leaveform{
+    background-color:white;
+    margin:10px 240px;
+    height:80vh;
+}
+.leavehead{
+    width: 100vh;
+    height: 85px;
+    margin-left: 380px;
+    border-radius: 10px;
+}
+#fields{
+    margin-left: -90px;
+    margin-top: -10px;
+    font-size: 20px;
+    color: black;
+}
+.leaveform1{
+    margin:0px 50px;
+}
+#leaveform1label{
+    margin-left: 20px;
+    font-size: 15px;
+    color: black;
+    display: flex;
+}
+#leavetype{
+    background-color: #c1daf8;
+    width:875px;
+    margin-left: 18px;
+    margin-top: 10px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 20px;
+}
+#leaveform2label{
+    margin-left: 20px;
+    font-size: 15px;
+    color: black;
+}
+#duration{
+    background-color: #c1daf8;
+    width: 390px;
+    margin-left: 25px;
+    margin-top: 5px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 20px;
+}
+
+.leaveform2{
+    margin:10px 50px;
+    display: flex;
+}
+#chooseofficer{
+    margin:10px 20px;
+}
+#reasonfor{
+    display:flex;
+    margin:5px 20px;
+}
+#handover{
+     margin:10px 20px;
+     width: 1358px;
+}
+#file{
+    background-color:#c1daf8 ;
+    width: 895px;
+    height: 30px;
+    margin-left: 25px;
+    margin-top: 10px;
+    border-radius:5px ;
+}
+#reason{
+    background-color:#c1daf8 ;
+    margin-left: 20px;
+    width: 895px;
+    border:none;
+    height:49px;
+    border-radius: 5px;
+}
+.selectrelief{
+    background-color:#c1daf8 ;
+    width: 1005px;
+}
+#reliefofficer{
+    background-color: #c1daf8;
+    width: 895px;
+    height: 30px;
+    margin-left: 20px;
+    border:none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#submit{
+    background-color: green;
+    color: white;
+    width: 210px;
+    font-size: 20px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    margin-left: 250px;
+    margin-top: 13px;
+    
+}
+#reset{
+    background-color: white;
+    color: red;
+    width: 210px;
+    font-size: 20px;
+    height: 40px;
+    border-radius: 8px;
+    border-color: red;
+    margin-left: 74px;
+}
+.leaveform3{
+    margin:5px 50px;
+}
+.leaveform0{
+    margin-left: 45px;
+}
+#leavepag{
+    background-color: white;
+    margin: 0px 25px;
+    padding-top: 10px;
+    height: 25px;
+    font-size: 15px;
+}
+#open{
+    margin-right: 10px;
+    font-size: 25px;
+}
+.cation{
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-size: 29px;
+}
+#boardleave{
+    color:black;
+    padding: 40px;
+}

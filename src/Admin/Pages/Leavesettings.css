@@ -1,0 +1,109 @@
+#starter{
+    background-color: #E3EDF9;
+    width: 150vh;
+    height: 82vh;
+    margin-left: 350px;
+}
+#form-fields{
+    display: flex;
+    justify-content: space-between;
+}
+#left-part,#right-part {
+    width:550px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left:15px;
+    margin-top:15px ;
+    height:450px;
+}
+#left-part h3{
+    margin-left: 25px;
+    margin-top:15px;
+    font-size: 20px;
+}
+#leaveform1{
+    display: flex;
+    margin-top: -10px;;
+}
+#leaveform1 label{
+    margin-left: 25px;
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+}
+#leaveform1 input{
+    background-color: #E3EDF9 ;
+    border:none;
+    height:25px;
+    width:200px;
+    margin-top: 5px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+#leaveform1 select{
+    background-color: #E3EDF9 ;
+    border:none;
+    height:25px;
+    width:200px;
+     margin-top: 5px;
+    margin-left: 25px;
+    border-radius: 5px;
+}
+#leaveform2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-left:25px;
+}
+#leaveform2 select{
+    background-color: #E3EDF9 ;
+    border:none;
+    height:25px;
+     margin-top: 5px;
+    width:460px;
+    border-radius: 5px;
+}
+#leaveform3{
+    display: flex;
+    margin-top: 10px;
+    margin-left:25px;
+}
+#leaveform3 input{
+    background-color: #E3EDF9 ;
+    border:none;
+    height:25px;
+    width:215px;
+     margin-top: 5px;
+    border-radius: 5px;
+}
+#leaveform2 input{
+    background-color: #E3EDF9 ;
+    border:none;
+    height:25px;
+    width:460px;
+     margin-top: 5px;
+    border-radius: 5px;
+}
+#leaveform4{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-left:25px;
+}
+#leaveform4 input{
+    background-color: #E3EDF9 ;
+    border:none;
+    height:50px;
+    width:460px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+#subbut{
+    background-color:green;
+    color: white;
+    border: none;
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    margin:20px 140px;
+}

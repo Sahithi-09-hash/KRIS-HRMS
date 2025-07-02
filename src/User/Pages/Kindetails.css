@@ -1,0 +1,38 @@
+#kindetail{
+    display: flex;
+}
+#kinmeme1{
+    margin-top: 45px;
+    margin-left: 125px;
+}
+#kinmeme2{
+     margin-top: 45px;
+    margin-left: 95px;
+}
+#John{
+    background-color: #c1daf8;
+    height: 35px;
+    width: 315px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: none;
+}
+#Site{
+    background-color: #c1daf8;
+    height: 75px;
+    width: 730px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+#updatebutn{
+    background-color: green;
+    height: 35px;
+    font-size: 20px;
+    width: 170px;
+    border-radius: 5px;
+    margin-left: 130px;
+    margin-top: 25px;
+    color:white;
+    border:none;
+}
